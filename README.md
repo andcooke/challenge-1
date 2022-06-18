@@ -9,9 +9,9 @@ I have done the following:
     -simplified repetitive css code
 
 
-!["screenshot of the site"](./Develop/assets/images/screenshot-1.png)
-!["screenshot of the site"](./Develop/assets/images/screenshot-2.png)
-!["screenshot of the site"](./Develop/assets/images/screenshot-3.png)
+!["screenshot of the site"](./assets/images/screenshot-1.png)
+!["screenshot of the site"](./assets/images/screenshot-2.png)
+!["screenshot of the site"](./assets/images/screenshot-3.png)
 
 
 # Original code belonged to Xandromus, Github: https://github.com/coding-boot-camp/urban-octo-telegram
