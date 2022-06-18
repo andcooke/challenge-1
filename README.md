@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-Site is published at: https://andcooke.github.io/challenge-1/
+Site is deployed at: https://andcooke.github.io/challenge-1/
 
 For this exercise, we were told to clean up pre-made HTML and CSS code. 
 
